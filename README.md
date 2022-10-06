@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raja Sharma</h1>
-<h3 align="center">A passionate Full stack developer from India</h3>
+<h3 align="center">A passionate Full Stack Developer from India</h3>
 
-<p align="left"> <img src="C:\Users\ACER\Downloads\computer image.gif" alt="rajasharma585" /> </p>
+<p align="left"> <img src="https://C:\Users\ACER\Downloads\computer image.gif" alt="" /> </p>
 
 <p align="left"> <a href="https://twitter.com/mrrrajasharma1" target="blank"><img src="https://img.shields.io/twitter/follow/mrrrajasharma1?logo=twitter&style=for-the-badge" alt="mrrrajasharma1" /></a> </p>
 
